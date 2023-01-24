@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,182 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+#sidebar{
+  /* padding-top: 40px; */
+  margin-left: 20px;
+  width: 220px;
+  font-size: 14px;
+}
+
+#sidebar div{
+  margin-top: 5px;
+}
+
+.body{
+  position: relative;
+}
+.main {
+  margin: 3%;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  border-bottom:solid rgb(229, 222, 222);
+}
+.logo img {
+  width: 170px;
+}
+.descript {
+  margin-left: 10px;
+  margin-bottom: 1px;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.welcome {
+  text-align: center;
+}
+
+#demo {
+  display: flex;
+  flex-wrap: wrap;
+}
+.EmployeeCard img {
+  width: 80px;
+  height: 80px;
+  
+}
+.EmployeeCard {
+  width: 288px;
+  display: flex;
+  /* flex-wrap: wrap; */
+  color: rgb(115, 109, 109);
+  /* justify-content: space-between; */
+  border: solid #e9e7edbc;
+  padding: 4px;
+  margin: 8px;
+  background-color: #e9e7edbc;
+  font-size: 13px;
+}
+.EmployeeCard:hover{
+  cursor: pointer;
+}
+
+.content {
+  margin-left: 20px;
+  align-items: left;
+  /* justify-content: space-around; */
+}
+
+.sidebar-search-filter-output{
+  display: flex;
+}
+#navbar {
+  border: solid rgb(165, 151, 151);
+  padding: 1%;
+  margin-right: 2%;
+  font-size: large;
+}
+
+.search-filter {
+  margin: 20px 0px 20px 0px ;
+  display: flex;
+  flex-wrap: wrap ;
+  justify-content: space-between;
+}
+.search-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  /* justify-content: space-around; */
+}
+.search-bar div{
+  margin: 0px 0px 0px 10px ;
+}
+.filter {
+  display: flex;
+  flex-wrap: wrap;
+}
+.output {
+ display: flex;
+ flex-wrap: wrap;
+ 
+  border: solid #e9e7edbc;
+}
+.alphabet {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.alphabet div {
+  margin: 0px;
+  background-color: rgba(21,178,248,255);
+}
+
+.name {
+  font-weight: bold;
+  /* font-size: large; */
+}
+
+#display_image {
+  width: 375px;
+  height: 211px;
+  border: 1px solid black;
+  background-position: center;
+}
+.departments div:hover {
+  color: blue;
+}
+.offices div:hover {
+  color: blue;
+}
+.job-titles div:hover {
+  color: blue;
+}
+#searchBar {
+  height: 100%;
+}
+
+#searchWrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.contact {
+  display: flex;
+  /* flex-wrap: wrap; */
+  background-color: #e9e7edbc;
+  justify-content: space-between;
+  width: 100px;
+}
+.contact img {
+  margin: 2px;
+  width: 15px;
+  height: 15px;
+}
+
+#addEmployee{
+  /* background-color: rgba(21,178,248,255); */
+}
+
+#AddEmployeeForm input{
+  margin: 10px;
+
+}
+
+#details-from img{
+  width: 1000000px;
+}
+.description-bottom{
+  display: flex;
+  align-items: baseline;
+  /* background-color: black; */
+  
 }

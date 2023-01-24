@@ -1,0 +1,91 @@
+
+[
+  {
+    "fname": "Raj Manohar",
+    "lname": "Reddy",
+    "email": "abc@123gmail.com",
+    "job_title": "Full Stack Developer",
+    "office": "Kondapur",
+    "dept": "IT",
+    "p_no": "6302266573",
+    "skype_id": "skid_123",
+    "img_url": "https://www.shutterstock.com/image-photo/man-hands-holding-global-network-260nw-1801568002.jpg"
+  },
+  {
+    "fname": "Ravi",
+    "lname": "Kiran",
+    "email": "abc@123gmail.com",
+    "job_title": "SharePoint Practice Head",
+    "office": "Madhapur",
+    "dept": "IT",
+    "p_no": "6302266573",
+    "skype_id": "skid_123",
+    "img_url": "https://www.shutterstock.com/image-photo/man-hands-holding-global-network-260nw-1801568002.jpg"
+  },
+  {
+    "fname": "Kalki",
+    "lname": "Kiran",
+    "email": "abc@123gmail.com",
+    "job_title": "FrontEnd Developer",
+    "office": "Gachibowli",
+    "dept": "IT",
+    "p_no": "6302266573",
+    "skype_id": "skid_123",
+    "img_url": "https://www.shutterstock.com/image-photo/man-hands-holding-global-network-260nw-1801568002.jpg"
+  },
+  {
+    "fname": "Akhil",
+    "lname": "Kiran",
+    "email": "abc@123gmail.com",
+    "job_title": "Backend Developer",
+    "office": "Kondapur",
+    "dept": "IT",
+    "p_no": "6302266573",
+    "skype_id": "skid_123",
+    "img_url": "https://www.shutterstock.com/image-photo/man-hands-holding-global-network-260nw-1801568002.jpg"
+  },
+  {
+    "fname": "Shiva",
+    "lname": "Kiran",
+    "email": "abc@123gmail.com",
+    "job_title": ".Net Developer",
+    "office": "Madhapur",
+    "dept": "IT",
+    "p_no": "6302266573",
+    "skype_id": "skid_123",
+    "img_url": "https://www.shutterstock.com/image-photo/man-hands-holding-global-network-260nw-1801568002.jpg"
+  },
+  {
+    "fname": "Naveen",
+    "lname": "Kiran",
+    "email": "abc@123gmail.com",
+    "job_title": "Full Stack Developer",
+    "office": "Gachibowli",
+    "dept": "IT",
+    "p_no": "6302266573",
+    "skype_id": "skid_123",
+    "img_url": "https://www.shutterstock.com/image-photo/man-hands-holding-global-network-260nw-1801568002.jpg"
+  },
+  {
+    "fname": "Umesh",
+    "lname": "Kiran",
+    "email": "abc@123gmail.com",
+    "job_title": "HR Manager",
+    "office": "Madhapur",
+    "dept": "HR",
+    "p_no": "6302266573",
+    "skype_id": "skid_123",
+    "img_url": "https://www.shutterstock.com/image-photo/man-hands-holding-global-network-260nw-1801568002.jpg"
+  },
+  {
+    "fname": "Rupesh",
+    "lname": "Kiran",
+    "email": "abc@123gmail.com",
+    "job_title": "Chief Executive Officer",
+    "office": "Kondapur",
+    "dept": "MD",
+    "p_no": "6302266573",
+    "skype_id": "skid_123",
+    "img_url": "https://www.shutterstock.com/image-photo/man-hands-holding-global-network-260nw-1801568002.jpg"
+  }
+]
